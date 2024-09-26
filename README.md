@@ -56,3 +56,18 @@ Follow these steps to install **Cisco Packet Tracer 2019** on your machine:
 ## 📂 Project File
 
 The hotel network design project is saved in a **`.pkt`** file. Open this file in Cisco Packet Tracer to simulate and explore the network settings, including routing, VLANs, DHCP, and SSH configurations.
+
+----
+## Hotel Network
+![Hotel Network](https://github.com/user-attachments/assets/696be5d4-e5fb-4d4a-aa0a-a7cf61956a9d)
+## 1st Floor
+![1st floor](https://github.com/user-attachments/assets/cf9f1b16-3b25-4f37-b0fc-2cf8098e1fff)
+## 2nd Floor
+![2nd floor](https://github.com/user-attachments/assets/ee1a1580-63d3-4555-ae6e-df53825c6a31)
+## 3rd Floor
+![3rd  floor](https://github.com/user-attachments/assets/cc36040b-47a4-4ea8-a275-016d46fb8177)
+## Network
+![network](https://github.com/user-attachments/assets/fc0eca49-071f-4aa7-8c33-efbb0768450c)
+
+
+
